@@ -299,3 +299,7 @@
 	path = Nexapp/nexapp-collection-sh
 	url = git@github.com:odoonexapp/nexapp-collection-sh.git
 	branch = 19.0
+[submodule "na_wip_module"]
+	path = na_wip_module
+	url = git@github.com:odoonexapp/na_wip_module.git
+	branch = 19.0
